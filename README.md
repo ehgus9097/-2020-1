@@ -1,5 +1,11 @@
 # -2020-1안드로이드 스튜디오를 활용한 개인 프로젝트(식당에서 주문을 받을수있게 포스기를 만들어본 프로젝트)
 
+https://www.youtube.com/watch?v=0697NcagYMc
+
+[모바일프로그래밍.pptx](https://github.com/ehgus9097/2020-1-mobileprogramming/files/6526023/default.pptx)
+
+구상했던 프로그램
+
 ![KakaoTalk_20210522_162616890_01](https://user-images.githubusercontent.com/55967490/119218698-a95f3700-bb1c-11eb-8996-cdf7254529f0.jpg)
 
 어플 초기화면
@@ -25,3 +31,6 @@
 테이블 클릭시 나타나는 화면으로 메뉴없음 부분에 직접 만든 메뉴가 들어갔어야 했으나 에러로 생성되지않음
 
 ![KakaoTalk_20210522_162616890_07](https://user-images.githubusercontent.com/55967490/119218510-9e57d700-bb1b-11eb-9db9-4f09d6792acb.jpg)
+
+
+https://youtu.be/xQciZL1UPyw
