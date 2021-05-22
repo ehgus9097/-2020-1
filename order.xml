@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/btnOrder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="주문" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/pay"
+                android:text="계산"/>
+
+        </LinearLayout>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/ListView2" />
+
+    </LinearLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <Button
+                android:layout_width="98dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu1"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="98dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu2"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            >
+            <Button
+                android:layout_width="95dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu3"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu4"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu5"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu6"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu7"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu8"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+        </TableRow>
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+            <Button
+                android:layout_width="98dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu9"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="98dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu10"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            >
+            <Button
+                android:layout_width="95dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu11"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu12"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent">
+
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu13"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+            <Button
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:id="@+id/btnMenu14"
+                android:background="#ffffff"
+                android:layout_margin="2dp"/>
+
+        </TableRow>
+
+
+
+    </TableLayout>
+
+
+</LinearLayout>
